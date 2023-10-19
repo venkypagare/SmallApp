@@ -17,7 +17,7 @@ The project is organized using the standard Spring Boot structure. It includes c
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/SmallApp.git
+   git clone https://github.com/venkypagare/SmallApp.git
 
 ## Navigate to the project directory:
 cd SmallApp
